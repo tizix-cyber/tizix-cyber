@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<a href="https://www.linkedin.com/in/iryna-pislevich-60995819b/">
+  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 <!--
 **tizix-cyber/tizix-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
