@@ -1,5 +1,4 @@
-### Hi there 👋
-I'm Irina Pislevich and this is my link.
+### Hi there 👋 I'm Irina Pislevich and this is my link.
 <a href="https://www.linkedin.com/in/iryna-pislevich-60995819b/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
